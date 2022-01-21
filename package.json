@@ -1,0 +1,29 @@
+{
+  "name": "laravel-mix",
+  "version": "1.0.0",
+  "description": "First Laravel Mix",
+  "main": "webpack.mix.js",
+  "dependencies": {
+    "bootstrap": "^4.6.1",
+    "jquery": "^3.6.0",
+    "laravel-mix": "^6.0.39",
+    "popper.js": "^1.16.1",
+    "vue": "^2.6.14",
+    "vue-router": "^3.5.3"
+  },
+  "devDependencies": {
+    "resolve-url-loader": "^4.0.0",
+    "sass": "^1.45.1",
+    "sass-loader": "^12.1.0",
+    "vue-loader": "^15.9.8",
+    "vue-template-compiler": "^2.6.14"
+  },
+  "scripts": {
+    "watch-poll": "mix watch -- --watch-options-poll=1000",
+    "prod": "npm run production",
+    "production": "mix --production"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
