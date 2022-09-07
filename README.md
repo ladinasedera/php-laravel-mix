@@ -42,4 +42,4 @@ Yarn is a package manager that doubles down as project manager. Whether you work
 
 Get Started : [https://yarnpkg.com/getting-started](https://yarnpkg.com/getting-started) 
 
-### Create with ❤ by Ladina
+### Create with ❤ by [Ladina](https://ladinasedera.github.io)
