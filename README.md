@@ -1,4 +1,4 @@
-# PHP AND VUEJS WITH LARAVEL-MIX
+# Simple php app using laravel mix with vueJS
 
 ## About
 
