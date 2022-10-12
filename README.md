@@ -26,10 +26,12 @@ npm install
 
 ### Configuration
 
-If your app is in **subdirectory**, you need to change the vue-router base url at **/src/app.js** from **'laravel-mix'** to **'/your-subdirectory-path'**
-
-**PS:** you can also use .env setup it dynamically.
-
+- DotEnv : we use .env for app configuration, follow this step : 
+  - create a new copy of .env.example and rename it to .env
+  - change the MIX_APP_PATH to your app path(_make sur to include all subdirectory path, if the app is in subdirectory_)
+- Vue-router:
+  - Server configuration refer to this : [https://router.vuejs.org/guide/essentials/history-mode.html#example-server-configurations](https://router.vuejs.org/guide/essentials/history-mode.html#example-server-configurations)
+  
 ### Compile
 
 **Important:**
