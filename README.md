@@ -12,7 +12,7 @@ Just run the below command and enjoy !
 #yarn
 yarn install
 
-# or using npm
+#or npm
 npm install
 ```
 
@@ -20,7 +20,9 @@ npm install
 
 Please if you are new with laravel-mix, see [laravel mix docs](https://laravel-mix.com/docs) more info.
 
-Command to run mix build :
+### Basic usage
+
+Command to run mix build:
 
 ```
 #yarn
