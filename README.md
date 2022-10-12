@@ -61,29 +61,34 @@ yarn watch-poll
 npm run watch-poll
 ```
 
-## Documentation
+### Documentation
 
-### VueJS 
+#### VueJS 
 
 The Progressive JavaScript Framework
 
 Docs : [https://vuejs.org/guide/quick-start.html](https://vuejs.org/guide/quick-start.html)
 
-### Laravel MIX 
+#### Laravel mix 
 
 An elegant wrapper around Webpack for the 80% use case.
 
 Docs : [https://laravel-mix.com/docs](https://laravel-mix.com/docs)
 
-### Yarn 
+#### Yarn 
 
 Yarn is a package manager that doubles down as project manager. Whether you work on one-shot projects or large monorepos, as a hobbyist or an enterprise user, we've got you covered.
 
 Get Started : [https://yarnpkg.com/getting-started](https://yarnpkg.com/getting-started) 
 
-### NPM 
+#### NPM 
 
 npm is the world's largest software registry. Open source developers from every continent use npm to share and borrow packages, and many organizations use npm to manage private development as well.
 
 Get Started : [https://docs.npmjs.com/getting-started](https://docs.npmjs.com/getting-started) 
+
+### Annexe
+
+Be cause it's a php project, so you can your [composer](https://getcomposer.org/) to manage a php dependency.
+
 ### Created with ❤ by [Ladina](https://ladinasedera.github.io)
