@@ -1,4 +1,4 @@
-# Simple core app using laravel mix as stand-alone PHP project with vuejs version 2
+# Stand-alone php project with laravel mix and vuejs
 
 ## About
 
