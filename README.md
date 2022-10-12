@@ -1,8 +1,8 @@
-# Simple php core app using laravel mix with vuejs
+# Simple core app using laravel mix as stand-alone PHP project with vuejs version 2
 
 ## About
 
-This is a sample core app using [PHP](php.net) & [VueJS](https://vuejs.org) and [Laravel Mix](https://laravel-mix.com) build with [YARN](https://yarnpkg.com) or [NPM](https://www.npmjs.com)
+This is a sample stand-alone php project with laravel-mix using [PHP](php.net) & [VueJS 2](https://vuejs.org) and [Laravel Mix](https://laravel-mix.com) build with [YARN](https://yarnpkg.com) or [NPM](https://www.npmjs.com)
 
 ## Installation
 
@@ -26,8 +26,8 @@ Command to run mix build :
 #yarn
 yarn mix
 
-# or using npm
-npm run mix
+#or npx
+npx mix
 ```
 
 ## Documentation
