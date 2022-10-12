@@ -91,4 +91,4 @@ Get Started : [https://docs.npmjs.com/getting-started](https://docs.npmjs.com/ge
 
 Be cause it's a php project, so you can your [composer](https://getcomposer.org/) to manage a php dependency.
 
-### Created with ❤ by [Ladina](https://ladinasedera.github.io)
+##### Created with ❤ by [Ladina](https://ladinasedera.github.io) - Full Stack Developer
