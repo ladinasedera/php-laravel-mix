@@ -1,15 +1,19 @@
-# Simple php app using laravel mix with vueJS
+# Simple php core app using laravel mix with vuejs
 
 ## About
 
-This is a sample app/code using [PHP](php.net) & [VueJS](https://vuejs.org) and [Laravel Mix](https://laravel-mix.com) build with [YARN](https://yarnpkg.com) or [NPM](https://www.npmjs.com)
+This is a sample core app using [PHP](php.net) & [VueJS](https://vuejs.org) and [Laravel Mix](https://laravel-mix.com) build with [YARN](https://yarnpkg.com) or [NPM](https://www.npmjs.com)
 
 ## Installation
 
 Just run the below command and enjoy !
 
 ```
+#yarn
 yarn install
+
+# or using npm
+npm install
 ```
 
 ## Usage
@@ -19,7 +23,11 @@ Please if you are new with laravel-mix, see [laravel mix docs](https://laravel-m
 Command to run mix build :
 
 ```
+#yarn
 yarn mix
+
+# or using npm
+npm run mix
 ```
 
 ## Documentation
@@ -42,4 +50,9 @@ Yarn is a package manager that doubles down as project manager. Whether you work
 
 Get Started : [https://yarnpkg.com/getting-started](https://yarnpkg.com/getting-started) 
 
-### Create with ❤ by [Ladina](https://ladinasedera.github.io)
+### NPM 
+
+npm is the world's largest software registry. Open source developers from every continent use npm to share and borrow packages, and many organizations use npm to manage private development as well.
+
+Get Started : [https://docs.npmjs.com/getting-started](https://docs.npmjs.com/getting-started) 
+### Created with ❤ by [Ladina](https://ladinasedera.github.io)
