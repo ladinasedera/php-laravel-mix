@@ -30,7 +30,7 @@ If your app is in **subdirectory**, you need to change the vue-router base url a
 
 **PS:** you can also use .env setup it dynamically.
 
-### Usage
+### Compile
 
 **Important:**
 Please, if you are new with laravel-mix, see [laravel mix docs](https://laravel-mix.com/docs) more info.
@@ -43,6 +43,20 @@ yarn mix
 
 #or npx
 npx mix
+```
+
+### Scripts
+
+**Important:** See all the available script at package.json
+
+Run watch-poll (to detect automatically all changes):
+
+```
+#yarn
+yarn watch-poll
+
+#or npx
+npm run watch-poll
 ```
 
 ## Documentation
