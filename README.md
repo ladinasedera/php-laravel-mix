@@ -1,12 +1,20 @@
-# Stand-alone php project with laravel mix and vuejs
+## Stand-alone php project with laravel mix and vuejs
 
-## About
+### About
 
 This is a sample stand-alone php project with laravel-mix using [PHP](php.net) & [VueJS 2](https://vuejs.org) and [Laravel Mix](https://laravel-mix.com) build with [YARN](https://yarnpkg.com) or [NPM](https://www.npmjs.com)
 
-## Installation
+### Requirements 
 
-Just run the below command and enjoy !
+
+- Required :
+You need to have a basic understanding of laravel-mix, vuejs and vue router.
+- Optinal : Understanding [sass](https://sass-lang.com/documentation), because you can use a simple css.
+
+
+### Installation
+
+Just run the below command and enjoy!
 
 ```
 #yarn
@@ -16,11 +24,16 @@ yarn install
 npm install
 ```
 
-## Usage
+### Configuration
 
-Please if you are new with laravel-mix, see [laravel mix docs](https://laravel-mix.com/docs) more info.
+If your app is in **subdirectory**, you need to change the vue-router base url at **/src/app.js** from **'laravel-mix'** to **'/your-subdirectory-path'**
 
-### Basic usage
+**PS:** you can also use .env setup it dynamically.
+
+### Usage
+
+**Important:**
+Please, if you are new with laravel-mix, see [laravel mix docs](https://laravel-mix.com/docs) more info.
 
 Command to run mix build:
 
